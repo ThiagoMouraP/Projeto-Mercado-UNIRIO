@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UniMarket</string>
+    <string name="title_activity_avaliar">Avaliar</string>
+    <string name="title_aviso">AVISO!</string>
+    <string name="message_aviso">Campo vázio ou preenchido incorretamente!</string>
+    <string name="neutral_button">OK</string>
+    <string name="action_gerenciar_vendas">Gerenciar suas vendas</string>
+    <string name="action_procurar_produtos">Procurar Produtos</string>
+    <string name="action_favoritos">Seus Favoritos</string>
+    <string name="action_procurar_servicos">Procurar Servicos</string>
+    <string name="action_seuPerfil">Seu Perfil</string>
+    <string name="action_verPessoas">Ver Pessoas</string>
+</resources>

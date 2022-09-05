@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_principal_GerenciarSV"
+        android:title="@string/action_gerenciar_vendas" />
+    <item
+        android:id="@+id/menu_principal_procurarP"
+        android:title="@string/action_procurar_produtos" />
+    <item
+        android:id="@+id/menu_principal_favoritos"
+        android:title="@string/action_favoritos" />
+    <item
+        android:id="@+id/menu_principal_procurarS"
+        android:title="@string/action_procurar_servicos" />
+    <item
+        android:id="@+id/menu_principal_SeuPerfil"
+        android:title="@string/action_seuPerfil" />
+    <item
+        android:id="@+id/menu_principal_verPessoas"
+        android:title="@string/action_verPessoas" />
+</menu>

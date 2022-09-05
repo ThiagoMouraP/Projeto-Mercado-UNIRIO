@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "274893715561",
+    "firebase_url": "https://unimarket-385aa.firebaseio.com",
+    "project_id": "unimarket-385aa",
+    "storage_bucket": "unimarket-385aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274893715561:android:a464af7bb1bd1e56",
+        "android_client_info": {
+          "package_name": "com.projeto.henrique.unimarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274893715561-nl4co3ohb3cf58gmcm8vvm0ofk81tc5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projeto.henrique.unimarket",
+            "certificate_hash": "1add8c6f42d69fb11e49575a408457e8c14ea75e"
+          }
+        },
+        {
+          "client_id": "274893715561-t562epplgn7q8qiekroeb90p41pfhq3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlKHTESHbQryA8pctPCIg0DWFkT8NeUHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274893715561-t562epplgn7q8qiekroeb90p41pfhq3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
